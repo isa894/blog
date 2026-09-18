@@ -46,7 +46,7 @@
         <main>
 
             <article>
-                <h2>GTA 6 se aproxima do lançamento,mas ainda não tem data definida</h2>
+                <h2>O filme do deadpool é para toda a familia </h2>
                 <p>Isadora/ 18 de setembro</p>
 
                 <img src="imagem/412201.jpg" alt="">
