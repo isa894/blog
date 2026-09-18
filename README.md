@@ -50,6 +50,8 @@
                 <p>Isadora/ 18 de setembro</p>
 
                 <img src="imagem/412201.jpg" alt="">
+              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum inventore quia nemo voluptatum repudiandae non eius, voluptatibus ad id dolorem, totam optio sint hic alias fuga consequuntur aut, iste soluta!
+                </p>
             </article>
         </main>
 </body>
